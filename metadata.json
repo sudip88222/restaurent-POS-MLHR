@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant POS",
+  "description": "Fast restaurant POS billing with table & cabin management, split billing, 58mm thermal printing, AI menu scanning, expenses, and PDF/Excel reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
